@@ -10,7 +10,7 @@ def main():
     st.write("Name: Mohamed Ahmed Mohamed El Sayed")
     st.write("University: AlShorouk Academy")
     st.write("Email:", "[ma4385019@gmail.com](mailto:ma4385019@gmail.com)")
-    st.write("GitHub:", "[https://github.com/ma4389](https://github.com/ma4389)")
+    st.write("GitHub:", "[https://github.com/ma4389](https://github.com/MohamedAhmed3520)")
     st.write("LinkedIn:", "[https://www.linkedin.com/in/mohamed-ahmed-000b5929a/](https://www.linkedin.com/in/mohamed-ahmed-000b5929a/)")
     st.write("Kaggle:", "[https://www.kaggle.com/mohamedahmedlsayed](https://www.kaggle.com/mohamedahmedlsayed)")
     
